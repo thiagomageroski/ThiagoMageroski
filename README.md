@@ -1,16 +1,21 @@
-## Hi there 👋
+# Thiago Mageroski
 
-<!--
-**ThiagoMageroski/ThiagoMageroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Desenvolvedor Fullstack`
 
-Here are some ideas to get you started:
+👋 Olá! Sou apaixonado por tecnologia e desenvolvimento web. Tenho experiência com HTML, CSS, JavaScript, PHP e Python, além de conhecimentos sólidos em bancos de dados SQL e administração via terminais SSH. Gosto de aprender explorando projetos na prática e estou sempre buscando melhorar minhas habilidades em programação e arquitetura de sistemas. Este repositório é o espaço onde compartilho meus estudos, experimentos e projetos pessoais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+`Linguagens e Tecnologias`
+<div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=javascript,python,php,mysql,html,css,git,vscode,linux,cloudflare,windows" />
+</a>
+  
+##
+ 
+<div> 
+  <a href="https://instagram.com/thiagomageroski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatothiagomageroski27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiagomageroski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
