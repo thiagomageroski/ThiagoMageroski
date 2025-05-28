@@ -2,7 +2,7 @@
 
 `Desenvolvedor Fullstack`
 
-👋 Olá! Sou apaixonado por tecnologia e desenvolvimento web. Tenho experiência com HTML, CSS, JavaScript, PHP e Python, além de conhecimentos sólidos em bancos de dados SQL e administração via terminais SSH. Gosto de aprender explorando projetos na prática e estou sempre buscando melhorar minhas habilidades em programação e arquitetura de sistemas. Este repositório é o espaço onde compartilho meus estudos, experimentos e projetos pessoais.
+👋 Olá! Sou apaixonado por tecnologia e desenvolvimento web. Tenho experiência com HTML, CSS, JavaScript, PHP e Python, além de conhecimentos sólidos em bancos de dados SQL e administração via terminais SSH. Gosto de aprender explorando projetos na prática e estou sempre buscando melhorar minhas habilidades em programação e desenvolvimento de sistemas. Este repositório é o espaço onde compartilho meus estudos, experimentos e projetos pessoais.
 
 
 `Linguagens e Tecnologias`
