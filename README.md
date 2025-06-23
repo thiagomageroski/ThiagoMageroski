@@ -19,8 +19,7 @@
   <a href="https://www.linkedin.com/in/thiagomageroski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<div>
-  ### 📊 Estatísticas
+### 📊 Estatísticas
 
 <p>
   <img 
@@ -28,7 +27,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" 
+    src="https://github-readme-stats.vercel.app/api?username=thiagomageroski&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-</div>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomageroski&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
