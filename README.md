@@ -7,7 +7,6 @@
 <a href="https://www.linkedin.com/in/thiagomageroski/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:contatothiagomageroski27@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/thiagomageroski"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=thiagomageroski&color=7aa2f7&style=flat-square&label=visitas" />
 
 </div>
 
@@ -24,11 +23,6 @@
 <br>
 
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Apex-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/LWC-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Aura-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Flows-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentforce-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
 
 </div>
 
