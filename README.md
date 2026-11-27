@@ -79,8 +79,6 @@ Gosto de aprender explorando projetos na prática e estou sempre buscando melhor
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=thiagomageroski&color=7aa2f7&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil" />
-
 </div>
 
 <!-- Rodapé -->
