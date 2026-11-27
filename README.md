@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=460&height=30&lines=Desenvolvedor+Fullstack;PHP+Laravel+%7C+Vue.js+%7C+SQL;Salesforce+Developer+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=460&height=30&lines=Desenvolvedor+Fullstack;PHP+Laravel+%7C+Node.js+%7C+Vue.js+%7C+SQL;Salesforce+Developer+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/thiagomageroski/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:contatothiagomageroski27@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+<a href="mailto:contatothiagomageroski27@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/thiagomageroski"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=thiagomageroski&color=7aa2f7&style=flat-square&label=visitas" />
 
@@ -13,22 +13,22 @@
 
 ### `Sobre mim`
 
-👋 Sou apaixonado por tecnologia e desenvolvimento web. Tenho experiência profissional com **PHP Laravel, JavaScript, Vue.js e SQL**, atuo com **Salesforce** (Apex, LWC, Aura, Flows e Agentforce) e administro servidores Linux via **SSH**. Aqui compartilho meus **estudos, experimentos e projetos pessoais**. 🚀
+👋 Sou apaixonado por tecnologia e desenvolvimento web. Tenho experiência profissional com **PHP Laravel, JavaScript, Node.js, Vue.js e SQL**, atuo com **Salesforce** (Apex, LWC, Aura, Flows e Agentforce) e administro servidores Linux via **SSH**. Aqui compartilho meus **estudos, experimentos e projetos pessoais**. 🚀
 
 ### `Stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,vue,html,css,python,mysql,linux,cloudflare,git,vscode&perline=12" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,vue,html,css,python,mysql,linux,cloudflare,git,vscode&perline=13" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Apex-1a1b27?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
-<img src="https://img.shields.io/badge/LWC-1a1b27?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
-<img src="https://img.shields.io/badge/Aura-1a1b27?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
-<img src="https://img.shields.io/badge/Flows-1a1b27?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
-<img src="https://img.shields.io/badge/Agentforce-1a1b27?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+<img src="https://img.shields.io/badge/Apex-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/LWC-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Aura-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Flows-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentforce-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
 
 </div>
 
